@@ -1,5 +1,23 @@
-🚗 Ultimate Car Racing Game
+# 🚗 Ultimate Car Racing Game
 
-A fun arcade-style car racing game developed in Python using the Turtle graphics library. Dodge enemy vehicles, survive as long as possible, and achieve the highest score.
+A car racing game built using Python Turtle Graphics.
 
+## Features
+- Enemy cars
+- Score & High Score
+- Collision Detection
+- Keyboard Controls
+- City-Themed Environment
+- Game Over & Restart System
+
+## Controls
+- Left Arrow → Move Left
+- Right Arrow → Move Right
+
+## Technologies Used
+- Python
+- Turtle Graphics
+
+## Author
+Sandeep Mishra
 Author :- Sandeep Kumar Mishra
