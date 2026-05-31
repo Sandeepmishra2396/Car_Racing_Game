@@ -19,5 +19,4 @@ A car racing game built using Python Turtle Graphics.
 - Turtle Graphics
 
 ## Author
-Sandeep Mishra
-Author :- Sandeep Kumar Mishra
+Sandeep Kumar Mishra
