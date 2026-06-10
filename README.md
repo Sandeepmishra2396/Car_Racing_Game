@@ -17,6 +17,7 @@ A car racing game built using Python Turtle Graphics.
 ## Technologies Used
 - Python
 - Turtle Graphics
-
+- VS Code
+  
 ## Author
 Sandeep Kumar Mishra
